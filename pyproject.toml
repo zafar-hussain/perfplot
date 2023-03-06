@@ -30,7 +30,7 @@ dependencies = [
   "matplotx",
   "rich",
   "typing_extensions;python_version<'3.8'",
-  "numpy='1.19.5'"
+  "numpy='1.19.5'",
 ]
 
 [project.urls]
